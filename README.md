@@ -1,4 +1,4 @@
-# Temp-testing-rep
+# Basic Colored web site with JS
 For deletion or reuse.
 
 1. Need to rename repo.
