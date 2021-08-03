@@ -2,4 +2,4 @@
 
 Web site made with HTML, CSS and JavaScript
 
-Also added Fontawesome for icons
+Added Font awesome for icons from https://fontawesome.com/
