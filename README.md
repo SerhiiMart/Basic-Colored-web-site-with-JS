@@ -2,4 +2,4 @@
 
 Web site made with HTML, CSS and JavaScript
 
-Added icons using font awesome from https://fontawesome.com/
+* Added icons using font awesome from https://fontawesome.com/
